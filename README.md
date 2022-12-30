@@ -8,14 +8,14 @@ This tutorial outlines the install configuration of the Virtual Private Network 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure 
+- Windows Virtual Machine
 - Remote Desktop
-- Internet Information Services (IIS)
--ProtoVPN
+- ProtoVPN
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b>
 
 <h2>Objectives</h2>
 
